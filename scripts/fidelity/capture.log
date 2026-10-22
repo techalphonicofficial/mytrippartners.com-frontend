@@ -1,0 +1,23 @@
+25/447 (22s)
+50/447 (44s)
+75/447 (71s)
+100/447 (96s)
+125/447 (126s)
+150/447 (152s)
+175/447 (183s)
+200/447 (211s)
+225/447 (237s)
+250/447 (267s)
+275/447 (292s)
+300/447 (321s)
+325/447 (346s)
+350/447 (1134s)
+375/447 (1196s)
+400/447 (1221s)
+425/447 (1251s)
+captured 443/447 legacy pages in 1275s → C:\Users\User\Downloads\trippartner-deploy\trippartner-deploy\client\scripts\fidelity\baseline
+failed:
+  /packages/kedarkantha/: Connection closed.
+  /packages/uttarakhand-backpack/: Connection closed.
+  /packages/corbett-nainital/: Connection closed.
+  /packages/udaipur-weekend/: Connection closed.

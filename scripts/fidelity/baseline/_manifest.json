@@ -1,0 +1,2237 @@
+[
+ {
+  "path": "/",
+  "legacy": "/",
+  "group": "home"
+ },
+ {
+  "path": "/india/",
+  "legacy": "/india/",
+  "group": "places"
+ },
+ {
+  "path": "/india/jammu-kashmir/",
+  "legacy": "/india/jammu-kashmir/",
+  "group": "places"
+ },
+ {
+  "path": "/india/ladakh/",
+  "legacy": "/india/ladakh/",
+  "group": "places"
+ },
+ {
+  "path": "/india/himachal-pradesh/",
+  "legacy": "/india/himachal-pradesh/",
+  "group": "places"
+ },
+ {
+  "path": "/india/punjab/",
+  "legacy": "/india/punjab/",
+  "group": "places"
+ },
+ {
+  "path": "/india/chandigarh/",
+  "legacy": "/india/chandigarh/",
+  "group": "places"
+ },
+ {
+  "path": "/india/haryana/",
+  "legacy": "/india/haryana/",
+  "group": "places"
+ },
+ {
+  "path": "/india/uttarakhand/",
+  "legacy": "/india/uttarakhand/",
+  "group": "places"
+ },
+ {
+  "path": "/india/delhi/",
+  "legacy": "/india/delhi/",
+  "group": "places"
+ },
+ {
+  "path": "/india/uttar-pradesh/",
+  "legacy": "/india/uttar-pradesh/",
+  "group": "places"
+ },
+ {
+  "path": "/india/rajasthan/",
+  "legacy": "/india/rajasthan/",
+  "group": "places"
+ },
+ {
+  "path": "/india/gujarat/",
+  "legacy": "/india/gujarat/",
+  "group": "places"
+ },
+ {
+  "path": "/india/madhya-pradesh/",
+  "legacy": "/india/madhya-pradesh/",
+  "group": "places"
+ },
+ {
+  "path": "/india/maharashtra/",
+  "legacy": "/india/maharashtra/",
+  "group": "places"
+ },
+ {
+  "path": "/india/goa/",
+  "legacy": "/india/goa/",
+  "group": "places"
+ },
+ {
+  "path": "/india/karnataka/",
+  "legacy": "/india/karnataka/",
+  "group": "places"
+ },
+ {
+  "path": "/india/kerala/",
+  "legacy": "/india/kerala/",
+  "group": "places"
+ },
+ {
+  "path": "/india/tamil-nadu/",
+  "legacy": "/india/tamil-nadu/",
+  "group": "places"
+ },
+ {
+  "path": "/india/puducherry/",
+  "legacy": "/india/puducherry/",
+  "group": "places"
+ },
+ {
+  "path": "/india/andhra-pradesh/",
+  "legacy": "/india/andhra-pradesh/",
+  "group": "places"
+ },
+ {
+  "path": "/india/telangana/",
+  "legacy": "/india/telangana/",
+  "group": "places"
+ },
+ {
+  "path": "/india/odisha/",
+  "legacy": "/india/odisha/",
+  "group": "places"
+ },
+ {
+  "path": "/india/west-bengal/",
+  "legacy": "/india/west-bengal/",
+  "group": "places"
+ },
+ {
+  "path": "/india/sikkim/",
+  "legacy": "/india/sikkim/",
+  "group": "places"
+ },
+ {
+  "path": "/india/assam/",
+  "legacy": "/india/assam/",
+  "group": "places"
+ },
+ {
+  "path": "/india/meghalaya/",
+  "legacy": "/india/meghalaya/",
+  "group": "places"
+ },
+ {
+  "path": "/india/arunachal-pradesh/",
+  "legacy": "/india/arunachal-pradesh/",
+  "group": "places"
+ },
+ {
+  "path": "/india/nagaland/",
+  "legacy": "/india/nagaland/",
+  "group": "places"
+ },
+ {
+  "path": "/india/manipur/",
+  "legacy": "/india/manipur/",
+  "group": "places"
+ },
+ {
+  "path": "/india/mizoram/",
+  "legacy": "/india/mizoram/",
+  "group": "places"
+ },
+ {
+  "path": "/india/tripura/",
+  "legacy": "/india/tripura/",
+  "group": "places"
+ },
+ {
+  "path": "/india/bihar/",
+  "legacy": "/india/bihar/",
+  "group": "places"
+ },
+ {
+  "path": "/india/jharkhand/",
+  "legacy": "/india/jharkhand/",
+  "group": "places"
+ },
+ {
+  "path": "/india/chhattisgarh/",
+  "legacy": "/india/chhattisgarh/",
+  "group": "places"
+ },
+ {
+  "path": "/india/andaman-nicobar/",
+  "legacy": "/india/andaman-nicobar/",
+  "group": "places"
+ },
+ {
+  "path": "/india/lakshadweep/",
+  "legacy": "/india/lakshadweep/",
+  "group": "places"
+ },
+ {
+  "path": "/india/jammu-kashmir/srinagar/",
+  "legacy": "/india/jammu-kashmir/srinagar/",
+  "group": "places"
+ },
+ {
+  "path": "/india/jammu-kashmir/gulmarg/",
+  "legacy": "/india/jammu-kashmir/gulmarg/",
+  "group": "places"
+ },
+ {
+  "path": "/india/jammu-kashmir/pahalgam/",
+  "legacy": "/india/jammu-kashmir/pahalgam/",
+  "group": "places"
+ },
+ {
+  "path": "/india/jammu-kashmir/sonamarg/",
+  "legacy": "/india/jammu-kashmir/sonamarg/",
+  "group": "places"
+ },
+ {
+  "path": "/india/jammu-kashmir/katra/",
+  "legacy": "/india/jammu-kashmir/katra/",
+  "group": "places"
+ },
+ {
+  "path": "/india/jammu-kashmir/jammu/",
+  "legacy": "/india/jammu-kashmir/jammu/",
+  "group": "places"
+ },
+ {
+  "path": "/india/jammu-kashmir/patnitop/",
+  "legacy": "/india/jammu-kashmir/patnitop/",
+  "group": "places"
+ },
+ {
+  "path": "/india/ladakh/leh/",
+  "legacy": "/india/ladakh/leh/",
+  "group": "places"
+ },
+ {
+  "path": "/india/ladakh/nubra-valley/",
+  "legacy": "/india/ladakh/nubra-valley/",
+  "group": "places"
+ },
+ {
+  "path": "/india/ladakh/pangong/",
+  "legacy": "/india/ladakh/pangong/",
+  "group": "places"
+ },
+ {
+  "path": "/india/ladakh/kargil/",
+  "legacy": "/india/ladakh/kargil/",
+  "group": "places"
+ },
+ {
+  "path": "/india/himachal-pradesh/shimla/",
+  "legacy": "/india/himachal-pradesh/shimla/",
+  "group": "places"
+ },
+ {
+  "path": "/india/himachal-pradesh/manali/",
+  "legacy": "/india/himachal-pradesh/manali/",
+  "group": "places"
+ },
+ {
+  "path": "/india/himachal-pradesh/dharamshala/",
+  "legacy": "/india/himachal-pradesh/dharamshala/",
+  "group": "places"
+ },
+ {
+  "path": "/india/himachal-pradesh/kasol/",
+  "legacy": "/india/himachal-pradesh/kasol/",
+  "group": "places"
+ },
+ {
+  "path": "/india/himachal-pradesh/dalhousie/",
+  "legacy": "/india/himachal-pradesh/dalhousie/",
+  "group": "places"
+ },
+ {
+  "path": "/india/himachal-pradesh/spiti-kaza/",
+  "legacy": "/india/himachal-pradesh/spiti-kaza/",
+  "group": "places"
+ },
+ {
+  "path": "/india/himachal-pradesh/kasauli/",
+  "legacy": "/india/himachal-pradesh/kasauli/",
+  "group": "places"
+ },
+ {
+  "path": "/india/himachal-pradesh/bir-billing/",
+  "legacy": "/india/himachal-pradesh/bir-billing/",
+  "group": "places"
+ },
+ {
+  "path": "/india/himachal-pradesh/kullu/",
+  "legacy": "/india/himachal-pradesh/kullu/",
+  "group": "places"
+ },
+ {
+  "path": "/india/punjab/amritsar/",
+  "legacy": "/india/punjab/amritsar/",
+  "group": "places"
+ },
+ {
+  "path": "/india/chandigarh/chandigarh-city/",
+  "legacy": "/india/chandigarh/chandigarh-city/",
+  "group": "places"
+ },
+ {
+  "path": "/india/haryana/kurukshetra/",
+  "legacy": "/india/haryana/kurukshetra/",
+  "group": "places"
+ },
+ {
+  "path": "/india/uttarakhand/rishikesh/",
+  "legacy": "/india/uttarakhand/rishikesh/",
+  "group": "places"
+ },
+ {
+  "path": "/india/uttarakhand/haridwar/",
+  "legacy": "/india/uttarakhand/haridwar/",
+  "group": "places"
+ },
+ {
+  "path": "/india/uttarakhand/mussoorie/",
+  "legacy": "/india/uttarakhand/mussoorie/",
+  "group": "places"
+ },
+ {
+  "path": "/india/uttarakhand/nainital/",
+  "legacy": "/india/uttarakhand/nainital/",
+  "group": "places"
+ },
+ {
+  "path": "/india/uttarakhand/jim-corbett/",
+  "legacy": "/india/uttarakhand/jim-corbett/",
+  "group": "places"
+ },
+ {
+  "path": "/india/uttarakhand/auli/",
+  "legacy": "/india/uttarakhand/auli/",
+  "group": "places"
+ },
+ {
+  "path": "/india/uttarakhand/kedarnath/",
+  "legacy": "/india/uttarakhand/kedarnath/",
+  "group": "places"
+ },
+ {
+  "path": "/india/uttarakhand/badrinath/",
+  "legacy": "/india/uttarakhand/badrinath/",
+  "group": "places"
+ },
+ {
+  "path": "/india/uttarakhand/valley-of-flowers/",
+  "legacy": "/india/uttarakhand/valley-of-flowers/",
+  "group": "places"
+ },
+ {
+  "path": "/india/uttarakhand/chopta/",
+  "legacy": "/india/uttarakhand/chopta/",
+  "group": "places"
+ },
+ {
+  "path": "/india/uttarakhand/almora/",
+  "legacy": "/india/uttarakhand/almora/",
+  "group": "places"
+ },
+ {
+  "path": "/india/uttarakhand/lansdowne/",
+  "legacy": "/india/uttarakhand/lansdowne/",
+  "group": "places"
+ },
+ {
+  "path": "/india/delhi/delhi-city/",
+  "legacy": "/india/delhi/delhi-city/",
+  "group": "places"
+ },
+ {
+  "path": "/india/uttar-pradesh/agra/",
+  "legacy": "/india/uttar-pradesh/agra/",
+  "group": "places"
+ },
+ {
+  "path": "/india/uttar-pradesh/varanasi/",
+  "legacy": "/india/uttar-pradesh/varanasi/",
+  "group": "places"
+ },
+ {
+  "path": "/india/uttar-pradesh/ayodhya/",
+  "legacy": "/india/uttar-pradesh/ayodhya/",
+  "group": "places"
+ },
+ {
+  "path": "/india/uttar-pradesh/mathura/",
+  "legacy": "/india/uttar-pradesh/mathura/",
+  "group": "places"
+ },
+ {
+  "path": "/india/uttar-pradesh/vrindavan/",
+  "legacy": "/india/uttar-pradesh/vrindavan/",
+  "group": "places"
+ },
+ {
+  "path": "/india/uttar-pradesh/lucknow/",
+  "legacy": "/india/uttar-pradesh/lucknow/",
+  "group": "places"
+ },
+ {
+  "path": "/india/uttar-pradesh/prayagraj/",
+  "legacy": "/india/uttar-pradesh/prayagraj/",
+  "group": "places"
+ },
+ {
+  "path": "/india/rajasthan/jaipur/",
+  "legacy": "/india/rajasthan/jaipur/",
+  "group": "places"
+ },
+ {
+  "path": "/india/rajasthan/udaipur/",
+  "legacy": "/india/rajasthan/udaipur/",
+  "group": "places"
+ },
+ {
+  "path": "/india/rajasthan/jodhpur/",
+  "legacy": "/india/rajasthan/jodhpur/",
+  "group": "places"
+ },
+ {
+  "path": "/india/rajasthan/jaisalmer/",
+  "legacy": "/india/rajasthan/jaisalmer/",
+  "group": "places"
+ },
+ {
+  "path": "/india/rajasthan/pushkar/",
+  "legacy": "/india/rajasthan/pushkar/",
+  "group": "places"
+ },
+ {
+  "path": "/india/rajasthan/mount-abu/",
+  "legacy": "/india/rajasthan/mount-abu/",
+  "group": "places"
+ },
+ {
+  "path": "/india/rajasthan/ranthambore/",
+  "legacy": "/india/rajasthan/ranthambore/",
+  "group": "places"
+ },
+ {
+  "path": "/india/rajasthan/bikaner/",
+  "legacy": "/india/rajasthan/bikaner/",
+  "group": "places"
+ },
+ {
+  "path": "/india/rajasthan/chittorgarh/",
+  "legacy": "/india/rajasthan/chittorgarh/",
+  "group": "places"
+ },
+ {
+  "path": "/india/gujarat/ahmedabad/",
+  "legacy": "/india/gujarat/ahmedabad/",
+  "group": "places"
+ },
+ {
+  "path": "/india/gujarat/dwarka/",
+  "legacy": "/india/gujarat/dwarka/",
+  "group": "places"
+ },
+ {
+  "path": "/india/gujarat/somnath/",
+  "legacy": "/india/gujarat/somnath/",
+  "group": "places"
+ },
+ {
+  "path": "/india/gujarat/rann-of-kutch/",
+  "legacy": "/india/gujarat/rann-of-kutch/",
+  "group": "places"
+ },
+ {
+  "path": "/india/gujarat/gir/",
+  "legacy": "/india/gujarat/gir/",
+  "group": "places"
+ },
+ {
+  "path": "/india/gujarat/statue-of-unity/",
+  "legacy": "/india/gujarat/statue-of-unity/",
+  "group": "places"
+ },
+ {
+  "path": "/india/madhya-pradesh/khajuraho/",
+  "legacy": "/india/madhya-pradesh/khajuraho/",
+  "group": "places"
+ },
+ {
+  "path": "/india/madhya-pradesh/ujjain/",
+  "legacy": "/india/madhya-pradesh/ujjain/",
+  "group": "places"
+ },
+ {
+  "path": "/india/madhya-pradesh/omkareshwar/",
+  "legacy": "/india/madhya-pradesh/omkareshwar/",
+  "group": "places"
+ },
+ {
+  "path": "/india/madhya-pradesh/indore/",
+  "legacy": "/india/madhya-pradesh/indore/",
+  "group": "places"
+ },
+ {
+  "path": "/india/madhya-pradesh/pachmarhi/",
+  "legacy": "/india/madhya-pradesh/pachmarhi/",
+  "group": "places"
+ },
+ {
+  "path": "/india/madhya-pradesh/kanha/",
+  "legacy": "/india/madhya-pradesh/kanha/",
+  "group": "places"
+ },
+ {
+  "path": "/india/madhya-pradesh/bandhavgarh/",
+  "legacy": "/india/madhya-pradesh/bandhavgarh/",
+  "group": "places"
+ },
+ {
+  "path": "/india/madhya-pradesh/orchha/",
+  "legacy": "/india/madhya-pradesh/orchha/",
+  "group": "places"
+ },
+ {
+  "path": "/india/madhya-pradesh/gwalior/",
+  "legacy": "/india/madhya-pradesh/gwalior/",
+  "group": "places"
+ },
+ {
+  "path": "/india/madhya-pradesh/sanchi/",
+  "legacy": "/india/madhya-pradesh/sanchi/",
+  "group": "places"
+ },
+ {
+  "path": "/india/maharashtra/mumbai/",
+  "legacy": "/india/maharashtra/mumbai/",
+  "group": "places"
+ },
+ {
+  "path": "/india/maharashtra/pune/",
+  "legacy": "/india/maharashtra/pune/",
+  "group": "places"
+ },
+ {
+  "path": "/india/maharashtra/lonavala/",
+  "legacy": "/india/maharashtra/lonavala/",
+  "group": "places"
+ },
+ {
+  "path": "/india/maharashtra/mahabaleshwar/",
+  "legacy": "/india/maharashtra/mahabaleshwar/",
+  "group": "places"
+ },
+ {
+  "path": "/india/maharashtra/aurangabad/",
+  "legacy": "/india/maharashtra/aurangabad/",
+  "group": "places"
+ },
+ {
+  "path": "/india/maharashtra/shirdi/",
+  "legacy": "/india/maharashtra/shirdi/",
+  "group": "places"
+ },
+ {
+  "path": "/india/maharashtra/nashik/",
+  "legacy": "/india/maharashtra/nashik/",
+  "group": "places"
+ },
+ {
+  "path": "/india/goa/north-goa/",
+  "legacy": "/india/goa/north-goa/",
+  "group": "places"
+ },
+ {
+  "path": "/india/goa/south-goa/",
+  "legacy": "/india/goa/south-goa/",
+  "group": "places"
+ },
+ {
+  "path": "/india/karnataka/bengaluru/",
+  "legacy": "/india/karnataka/bengaluru/",
+  "group": "places"
+ },
+ {
+  "path": "/india/karnataka/mysuru/",
+  "legacy": "/india/karnataka/mysuru/",
+  "group": "places"
+ },
+ {
+  "path": "/india/karnataka/coorg/",
+  "legacy": "/india/karnataka/coorg/",
+  "group": "places"
+ },
+ {
+  "path": "/india/karnataka/hampi/",
+  "legacy": "/india/karnataka/hampi/",
+  "group": "places"
+ },
+ {
+  "path": "/india/karnataka/chikmagalur/",
+  "legacy": "/india/karnataka/chikmagalur/",
+  "group": "places"
+ },
+ {
+  "path": "/india/karnataka/gokarna/",
+  "legacy": "/india/karnataka/gokarna/",
+  "group": "places"
+ },
+ {
+  "path": "/india/karnataka/udupi/",
+  "legacy": "/india/karnataka/udupi/",
+  "group": "places"
+ },
+ {
+  "path": "/india/kerala/munnar/",
+  "legacy": "/india/kerala/munnar/",
+  "group": "places"
+ },
+ {
+  "path": "/india/kerala/alleppey/",
+  "legacy": "/india/kerala/alleppey/",
+  "group": "places"
+ },
+ {
+  "path": "/india/kerala/kochi/",
+  "legacy": "/india/kerala/kochi/",
+  "group": "places"
+ },
+ {
+  "path": "/india/kerala/thekkady/",
+  "legacy": "/india/kerala/thekkady/",
+  "group": "places"
+ },
+ {
+  "path": "/india/kerala/wayanad/",
+  "legacy": "/india/kerala/wayanad/",
+  "group": "places"
+ },
+ {
+  "path": "/india/kerala/varkala/",
+  "legacy": "/india/kerala/varkala/",
+  "group": "places"
+ },
+ {
+  "path": "/india/kerala/kovalam/",
+  "legacy": "/india/kerala/kovalam/",
+  "group": "places"
+ },
+ {
+  "path": "/india/kerala/kumarakom/",
+  "legacy": "/india/kerala/kumarakom/",
+  "group": "places"
+ },
+ {
+  "path": "/india/kerala/thiruvananthapuram/",
+  "legacy": "/india/kerala/thiruvananthapuram/",
+  "group": "places"
+ },
+ {
+  "path": "/india/tamil-nadu/chennai/",
+  "legacy": "/india/tamil-nadu/chennai/",
+  "group": "places"
+ },
+ {
+  "path": "/india/tamil-nadu/ooty/",
+  "legacy": "/india/tamil-nadu/ooty/",
+  "group": "places"
+ },
+ {
+  "path": "/india/tamil-nadu/kodaikanal/",
+  "legacy": "/india/tamil-nadu/kodaikanal/",
+  "group": "places"
+ },
+ {
+  "path": "/india/tamil-nadu/madurai/",
+  "legacy": "/india/tamil-nadu/madurai/",
+  "group": "places"
+ },
+ {
+  "path": "/india/tamil-nadu/rameswaram/",
+  "legacy": "/india/tamil-nadu/rameswaram/",
+  "group": "places"
+ },
+ {
+  "path": "/india/tamil-nadu/kanyakumari/",
+  "legacy": "/india/tamil-nadu/kanyakumari/",
+  "group": "places"
+ },
+ {
+  "path": "/india/tamil-nadu/mahabalipuram/",
+  "legacy": "/india/tamil-nadu/mahabalipuram/",
+  "group": "places"
+ },
+ {
+  "path": "/india/tamil-nadu/thanjavur/",
+  "legacy": "/india/tamil-nadu/thanjavur/",
+  "group": "places"
+ },
+ {
+  "path": "/india/tamil-nadu/yercaud/",
+  "legacy": "/india/tamil-nadu/yercaud/",
+  "group": "places"
+ },
+ {
+  "path": "/india/puducherry/puducherry/",
+  "legacy": "/india/puducherry/puducherry/",
+  "group": "places"
+ },
+ {
+  "path": "/india/andhra-pradesh/tirupati/",
+  "legacy": "/india/andhra-pradesh/tirupati/",
+  "group": "places"
+ },
+ {
+  "path": "/india/andhra-pradesh/visakhapatnam/",
+  "legacy": "/india/andhra-pradesh/visakhapatnam/",
+  "group": "places"
+ },
+ {
+  "path": "/india/andhra-pradesh/araku-valley/",
+  "legacy": "/india/andhra-pradesh/araku-valley/",
+  "group": "places"
+ },
+ {
+  "path": "/india/telangana/hyderabad/",
+  "legacy": "/india/telangana/hyderabad/",
+  "group": "places"
+ },
+ {
+  "path": "/india/odisha/puri/",
+  "legacy": "/india/odisha/puri/",
+  "group": "places"
+ },
+ {
+  "path": "/india/odisha/konark/",
+  "legacy": "/india/odisha/konark/",
+  "group": "places"
+ },
+ {
+  "path": "/india/odisha/bhubaneswar/",
+  "legacy": "/india/odisha/bhubaneswar/",
+  "group": "places"
+ },
+ {
+  "path": "/india/odisha/chilika/",
+  "legacy": "/india/odisha/chilika/",
+  "group": "places"
+ },
+ {
+  "path": "/india/west-bengal/kolkata/",
+  "legacy": "/india/west-bengal/kolkata/",
+  "group": "places"
+ },
+ {
+  "path": "/india/west-bengal/darjeeling/",
+  "legacy": "/india/west-bengal/darjeeling/",
+  "group": "places"
+ },
+ {
+  "path": "/india/west-bengal/kalimpong/",
+  "legacy": "/india/west-bengal/kalimpong/",
+  "group": "places"
+ },
+ {
+  "path": "/india/west-bengal/sundarbans/",
+  "legacy": "/india/west-bengal/sundarbans/",
+  "group": "places"
+ },
+ {
+  "path": "/india/west-bengal/shantiniketan/",
+  "legacy": "/india/west-bengal/shantiniketan/",
+  "group": "places"
+ },
+ {
+  "path": "/india/sikkim/gangtok/",
+  "legacy": "/india/sikkim/gangtok/",
+  "group": "places"
+ },
+ {
+  "path": "/india/sikkim/pelling/",
+  "legacy": "/india/sikkim/pelling/",
+  "group": "places"
+ },
+ {
+  "path": "/india/sikkim/lachung/",
+  "legacy": "/india/sikkim/lachung/",
+  "group": "places"
+ },
+ {
+  "path": "/india/assam/guwahati/",
+  "legacy": "/india/assam/guwahati/",
+  "group": "places"
+ },
+ {
+  "path": "/india/assam/kaziranga/",
+  "legacy": "/india/assam/kaziranga/",
+  "group": "places"
+ },
+ {
+  "path": "/india/assam/majuli/",
+  "legacy": "/india/assam/majuli/",
+  "group": "places"
+ },
+ {
+  "path": "/india/meghalaya/shillong/",
+  "legacy": "/india/meghalaya/shillong/",
+  "group": "places"
+ },
+ {
+  "path": "/india/meghalaya/cherrapunji/",
+  "legacy": "/india/meghalaya/cherrapunji/",
+  "group": "places"
+ },
+ {
+  "path": "/india/meghalaya/dawki/",
+  "legacy": "/india/meghalaya/dawki/",
+  "group": "places"
+ },
+ {
+  "path": "/india/arunachal-pradesh/tawang/",
+  "legacy": "/india/arunachal-pradesh/tawang/",
+  "group": "places"
+ },
+ {
+  "path": "/india/arunachal-pradesh/ziro/",
+  "legacy": "/india/arunachal-pradesh/ziro/",
+  "group": "places"
+ },
+ {
+  "path": "/india/nagaland/kohima/",
+  "legacy": "/india/nagaland/kohima/",
+  "group": "places"
+ },
+ {
+  "path": "/india/manipur/imphal/",
+  "legacy": "/india/manipur/imphal/",
+  "group": "places"
+ },
+ {
+  "path": "/india/mizoram/aizawl/",
+  "legacy": "/india/mizoram/aizawl/",
+  "group": "places"
+ },
+ {
+  "path": "/india/tripura/agartala/",
+  "legacy": "/india/tripura/agartala/",
+  "group": "places"
+ },
+ {
+  "path": "/india/bihar/bodh-gaya/",
+  "legacy": "/india/bihar/bodh-gaya/",
+  "group": "places"
+ },
+ {
+  "path": "/india/bihar/rajgir/",
+  "legacy": "/india/bihar/rajgir/",
+  "group": "places"
+ },
+ {
+  "path": "/india/bihar/nalanda/",
+  "legacy": "/india/bihar/nalanda/",
+  "group": "places"
+ },
+ {
+  "path": "/india/bihar/patna/",
+  "legacy": "/india/bihar/patna/",
+  "group": "places"
+ },
+ {
+  "path": "/india/jharkhand/deoghar/",
+  "legacy": "/india/jharkhand/deoghar/",
+  "group": "places"
+ },
+ {
+  "path": "/india/jharkhand/ranchi/",
+  "legacy": "/india/jharkhand/ranchi/",
+  "group": "places"
+ },
+ {
+  "path": "/india/chhattisgarh/chitrakote/",
+  "legacy": "/india/chhattisgarh/chitrakote/",
+  "group": "places"
+ },
+ {
+  "path": "/india/andaman-nicobar/port-blair/",
+  "legacy": "/india/andaman-nicobar/port-blair/",
+  "group": "places"
+ },
+ {
+  "path": "/india/andaman-nicobar/havelock/",
+  "legacy": "/india/andaman-nicobar/havelock/",
+  "group": "places"
+ },
+ {
+  "path": "/india/andaman-nicobar/neil-island/",
+  "legacy": "/india/andaman-nicobar/neil-island/",
+  "group": "places"
+ },
+ {
+  "path": "/india/lakshadweep/lakshadweep-agatti/",
+  "legacy": "/india/lakshadweep/lakshadweep-agatti/",
+  "group": "places"
+ },
+ {
+  "path": "/india/hill-stations-in-india/",
+  "legacy": "/india/hill-stations-in-india/",
+  "group": "places"
+ },
+ {
+  "path": "/india/beaches-in-india/",
+  "legacy": "/india/beaches-in-india/",
+  "group": "places"
+ },
+ {
+  "path": "/india/pilgrimage-places-in-india/",
+  "legacy": "/india/pilgrimage-places-in-india/",
+  "group": "places"
+ },
+ {
+  "path": "/india/heritage-sites-in-india/",
+  "legacy": "/india/heritage-sites-in-india/",
+  "group": "places"
+ },
+ {
+  "path": "/india/wildlife-national-parks-in-india/",
+  "legacy": "/india/wildlife-national-parks-in-india/",
+  "group": "places"
+ },
+ {
+  "path": "/india/adventure-destinations-in-india/",
+  "legacy": "/india/adventure-destinations-in-india/",
+  "group": "places"
+ },
+ {
+  "path": "/india/snow-destinations-in-india/",
+  "legacy": "/india/snow-destinations-in-india/",
+  "group": "places"
+ },
+ {
+  "path": "/india/nature-escapes-in-india/",
+  "legacy": "/india/nature-escapes-in-india/",
+  "group": "places"
+ },
+ {
+  "path": "/india/city-breaks-in-india/",
+  "legacy": "/india/city-breaks-in-india/",
+  "group": "places"
+ },
+ {
+  "path": "/india/honeymoon-destinations-in-india/",
+  "legacy": "/india/honeymoon-destinations-in-india/",
+  "group": "places"
+ },
+ {
+  "path": "/india/backwaters-in-india/",
+  "legacy": "/india/backwaters-in-india/",
+  "group": "places"
+ },
+ {
+  "path": "/india/desert-destinations-in-india/",
+  "legacy": "/india/desert-destinations-in-india/",
+  "group": "places"
+ },
+ {
+  "path": "/india/spiritual-retreats-in-india/",
+  "legacy": "/india/spiritual-retreats-in-india/",
+  "group": "places"
+ },
+ {
+  "path": "/destinations/kashmir/",
+  "legacy": "/destinations/kashmir/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/destinations/himachal/",
+  "legacy": "/destinations/himachal/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/destinations/spiti/",
+  "legacy": "/destinations/spiti/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/destinations/ladakh/",
+  "legacy": "/destinations/ladakh/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/destinations/uttarakhand/",
+  "legacy": "/destinations/uttarakhand/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/destinations/uttar-pradesh/",
+  "legacy": "/destinations/uttar-pradesh/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/destinations/rajasthan/",
+  "legacy": "/destinations/rajasthan/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/destinations/kerala/",
+  "legacy": "/destinations/kerala/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/destinations/coorg-ooty/",
+  "legacy": "/destinations/coorg-ooty/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/destinations/south-india/",
+  "legacy": "/destinations/south-india/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/destinations/tamil-nadu/",
+  "legacy": "/destinations/tamil-nadu/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/destinations/tirupati/",
+  "legacy": "/destinations/tirupati/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/destinations/odisha/",
+  "legacy": "/destinations/odisha/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/destinations/sikkim-darjeeling/",
+  "legacy": "/destinations/sikkim-darjeeling/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/destinations/arunachal/",
+  "legacy": "/destinations/arunachal/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/destinations/andaman/",
+  "legacy": "/destinations/andaman/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/destinations/goa/",
+  "legacy": "/destinations/goa/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/destinations/maharashtra/",
+  "legacy": "/destinations/maharashtra/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/destinations/gujarat/",
+  "legacy": "/destinations/gujarat/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/destinations/madhya-pradesh/",
+  "legacy": "/destinations/madhya-pradesh/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/destinations/chardham/",
+  "legacy": "/destinations/chardham/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/destinations/varanasi/",
+  "legacy": "/destinations/varanasi/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/destinations/thailand/",
+  "legacy": "/destinations/thailand/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/destinations/bali/",
+  "legacy": "/destinations/bali/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/destinations/maldives/",
+  "legacy": "/destinations/maldives/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/destinations/dubai/",
+  "legacy": "/destinations/dubai/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/destinations/singapore-malaysia/",
+  "legacy": "/destinations/singapore-malaysia/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/destinations/bhutan/",
+  "legacy": "/destinations/bhutan/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/destinations/japan/",
+  "legacy": "/destinations/japan/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/destinations/vietnam/",
+  "legacy": "/destinations/vietnam/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/destinations/europe/",
+  "legacy": "/destinations/europe/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/destinations/australia/",
+  "legacy": "/destinations/australia/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/destinations/bahrain/",
+  "legacy": "/destinations/bahrain/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/destinations/nepal/",
+  "legacy": "/destinations/nepal/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/destinations/mauritius/",
+  "legacy": "/destinations/mauritius/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/destinations/meghalaya/",
+  "legacy": "/destinations/meghalaya/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/destinations/sri-lanka/",
+  "legacy": "/destinations/sri-lanka/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/destinations/georgia/",
+  "legacy": "/destinations/georgia/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/destinations/kazakhstan/",
+  "legacy": "/destinations/kazakhstan/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/destinations/kenya/",
+  "legacy": "/destinations/kenya/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/kashmir-paradise/",
+  "legacy": "/packages/kashmir-paradise/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/kashmir-winter/",
+  "legacy": "/packages/kashmir-winter/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/shimla-manali/",
+  "legacy": "/packages/shimla-manali/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/spiti-group/",
+  "legacy": "/packages/spiti-group/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/ladakh-explorer/",
+  "legacy": "/packages/ladakh-explorer/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/rishikesh-mussoorie/",
+  "legacy": "/packages/rishikesh-mussoorie/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/chardham-yatra/",
+  "legacy": "/packages/chardham-yatra/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/kedarnath-heli/",
+  "legacy": "/packages/kedarnath-heli/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/agra-varanasi/",
+  "legacy": "/packages/agra-varanasi/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/kashi-ayodhya/",
+  "legacy": "/packages/kashi-ayodhya/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/ayodhya-special/",
+  "legacy": "/packages/ayodhya-special/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/rajasthan-royal/",
+  "legacy": "/packages/rajasthan-royal/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/jaisalmer-desert/",
+  "legacy": "/packages/jaisalmer-desert/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/kerala-backwaters/",
+  "legacy": "/packages/kerala-backwaters/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/coorg-ooty-mysore/",
+  "legacy": "/packages/coorg-ooty-mysore/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/south-india-grand/",
+  "legacy": "/packages/south-india-grand/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/madurai-rameswaram/",
+  "legacy": "/packages/madurai-rameswaram/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/tirupati-darshan/",
+  "legacy": "/packages/tirupati-darshan/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/puri-konark/",
+  "legacy": "/packages/puri-konark/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/sikkim-darjeeling-tour/",
+  "legacy": "/packages/sikkim-darjeeling-tour/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/arunachal-tawang/",
+  "legacy": "/packages/arunachal-tawang/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/andaman-islands/",
+  "legacy": "/packages/andaman-islands/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/goa-getaway/",
+  "legacy": "/packages/goa-getaway/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/goa-adventure/",
+  "legacy": "/packages/goa-adventure/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/mumbai-shirdi/",
+  "legacy": "/packages/mumbai-shirdi/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/dwarka-somnath/",
+  "legacy": "/packages/dwarka-somnath/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/ujjain-omkareshwar/",
+  "legacy": "/packages/ujjain-omkareshwar/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/thailand-phuket-krabi/",
+  "legacy": "/packages/thailand-phuket-krabi/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/bangkok-pattaya/",
+  "legacy": "/packages/bangkok-pattaya/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/bali-honeymoon/",
+  "legacy": "/packages/bali-honeymoon/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/maldives-escape/",
+  "legacy": "/packages/maldives-escape/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/dubai-delight/",
+  "legacy": "/packages/dubai-delight/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/singapore-malaysia-value/",
+  "legacy": "/packages/singapore-malaysia-value/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/bhutan-escape/",
+  "legacy": "/packages/bhutan-escape/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/japan-grand/",
+  "legacy": "/packages/japan-grand/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/vietnam-classic/",
+  "legacy": "/packages/vietnam-classic/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/europe-best/",
+  "legacy": "/packages/europe-best/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/paris-passion/",
+  "legacy": "/packages/paris-passion/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/australia-reef/",
+  "legacy": "/packages/australia-reef/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/bahrain-break/",
+  "legacy": "/packages/bahrain-break/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/nepal-himalaya/",
+  "legacy": "/packages/nepal-himalaya/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/mauritius-beach/",
+  "legacy": "/packages/mauritius-beach/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/kerala-women/",
+  "legacy": "/packages/kerala-women/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/himachal-trek/",
+  "legacy": "/packages/himachal-trek/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/triund-trek/",
+  "legacy": "/packages/triund-trek/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/spiti-backpack/",
+  "legacy": "/packages/spiti-backpack/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/wk-rishikesh/",
+  "legacy": "/packages/wk-rishikesh/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/wk-mussoorie/",
+  "legacy": "/packages/wk-mussoorie/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/wk-nainital/",
+  "legacy": "/packages/wk-nainital/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/wk-corbett/",
+  "legacy": "/packages/wk-corbett/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/wk-lansdowne/",
+  "legacy": "/packages/wk-lansdowne/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/wk-haridwar/",
+  "legacy": "/packages/wk-haridwar/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/wk-chopta/",
+  "legacy": "/packages/wk-chopta/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/wk-shimla/",
+  "legacy": "/packages/wk-shimla/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/wk-kasauli/",
+  "legacy": "/packages/wk-kasauli/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/wk-mcleodganj/",
+  "legacy": "/packages/wk-mcleodganj/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/wk-jaipur/",
+  "legacy": "/packages/wk-jaipur/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/wk-agra/",
+  "legacy": "/packages/wk-agra/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/wk-mathura/",
+  "legacy": "/packages/wk-mathura/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/wk-neemrana/",
+  "legacy": "/packages/wk-neemrana/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/wk-sariska/",
+  "legacy": "/packages/wk-sariska/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/fx-goa-nye/",
+  "legacy": "/packages/fx-goa-nye/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/fx-goa-xmas/",
+  "legacy": "/packages/fx-goa-xmas/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/fx-manali-snow/",
+  "legacy": "/packages/fx-manali-snow/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/fx-kashmir-nye/",
+  "legacy": "/packages/fx-kashmir-nye/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/fx-udaipur-nye/",
+  "legacy": "/packages/fx-udaipur-nye/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/fx-jaisalmer-nye/",
+  "legacy": "/packages/fx-jaisalmer-nye/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/fx-kerala-xmas/",
+  "legacy": "/packages/fx-kerala-xmas/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/fx-andaman-nye/",
+  "legacy": "/packages/fx-andaman-nye/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/fx-rishikesh-nye/",
+  "legacy": "/packages/fx-rishikesh-nye/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/fx-dubai-nye/",
+  "legacy": "/packages/fx-dubai-nye/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/fx-thailand-nye/",
+  "legacy": "/packages/fx-thailand-nye/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/fx-bali-nye/",
+  "legacy": "/packages/fx-bali-nye/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/fx-europe-xmas/",
+  "legacy": "/packages/fx-europe-xmas/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/fx-singapore-nye/",
+  "legacy": "/packages/fx-singapore-nye/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/fx-maldives-nye/",
+  "legacy": "/packages/fx-maldives-nye/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/meghalaya-classic/",
+  "legacy": "/packages/meghalaya-classic/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/meghalaya-kaziranga/",
+  "legacy": "/packages/meghalaya-kaziranga/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/meghalaya-women/",
+  "legacy": "/packages/meghalaya-women/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/meghalaya-offbeat/",
+  "legacy": "/packages/meghalaya-offbeat/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/tawang-bike/",
+  "legacy": "/packages/tawang-bike/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/north-sikkim/",
+  "legacy": "/packages/north-sikkim/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/gangtok-darjeeling-value/",
+  "legacy": "/packages/gangtok-darjeeling-value/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/sikkim-silk-route/",
+  "legacy": "/packages/sikkim-silk-route/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/darjeeling-kalimpong/",
+  "legacy": "/packages/darjeeling-kalimpong/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/bhutan-sikkim-darjeeling/",
+  "legacy": "/packages/bhutan-sikkim-darjeeling/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/tirthan-jibhi/",
+  "legacy": "/packages/tirthan-jibhi/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/bir-billing/",
+  "legacy": "/packages/bir-billing/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/shangarh-sainj/",
+  "legacy": "/packages/shangarh-sainj/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/kareri-lake/",
+  "legacy": "/packages/kareri-lake/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/manali-kasol-jibhi/",
+  "legacy": "/packages/manali-kasol-jibhi/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/kinnaur-chitkul/",
+  "legacy": "/packages/kinnaur-chitkul/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/himachal-grand/",
+  "legacy": "/packages/himachal-grand/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/dharamshala-dalhousie/",
+  "legacy": "/packages/dharamshala-dalhousie/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/tirthan-kasol-manali/",
+  "legacy": "/packages/tirthan-kasol-manali/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/spiti-winter/",
+  "legacy": "/packages/spiti-winter/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/spiti-from-manali/",
+  "legacy": "/packages/spiti-from-manali/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/kashmir-sonamarg/",
+  "legacy": "/packages/kashmir-sonamarg/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/kashmir-autumn/",
+  "legacy": "/packages/kashmir-autumn/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/vaishno-devi/",
+  "legacy": "/packages/vaishno-devi/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/amarnath-yatra/",
+  "legacy": "/packages/amarnath-yatra/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/ladakh-hanle/",
+  "legacy": "/packages/ladakh-hanle/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/zanskar-expedition/",
+  "legacy": "/packages/zanskar-expedition/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/ladakh-bike/",
+  "legacy": "/packages/ladakh-bike/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/ladakh-short/",
+  "legacy": "/packages/ladakh-short/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/valley-of-flowers/",
+  "legacy": "/packages/valley-of-flowers/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/kedarnath-road/",
+  "legacy": "/packages/kedarnath-road/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/do-dham/",
+  "legacy": "/packages/do-dham/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/har-ki-dun/",
+  "legacy": "/packages/har-ki-dun/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/kedarkantha/",
+  "legacy": "/packages/kedarkantha/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/uttarakhand-backpack/",
+  "legacy": "/packages/uttarakhand-backpack/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/corbett-nainital/",
+  "legacy": "/packages/corbett-nainital/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/udaipur-weekend/",
+  "legacy": "/packages/udaipur-weekend/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/rajasthan-backpack/",
+  "legacy": "/packages/rajasthan-backpack/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/jaipur-udaipur/",
+  "legacy": "/packages/jaipur-udaipur/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/jaisalmer-longewala/",
+  "legacy": "/packages/jaisalmer-longewala/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/mount-abu/",
+  "legacy": "/packages/mount-abu/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/golden-triangle/",
+  "legacy": "/packages/golden-triangle/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/kerala-varkala/",
+  "legacy": "/packages/kerala-varkala/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/kodaikanal-weekend/",
+  "legacy": "/packages/kodaikanal-weekend/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/gokarna-weekend/",
+  "legacy": "/packages/gokarna-weekend/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/coorg-weekend/",
+  "legacy": "/packages/coorg-weekend/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/andaman-baratang/",
+  "legacy": "/packages/andaman-baratang/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/sri-lanka-classic/",
+  "legacy": "/packages/sri-lanka-classic/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/georgia-tour/",
+  "legacy": "/packages/georgia-tour/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/almaty-nature/",
+  "legacy": "/packages/almaty-nature/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/masai-mara/",
+  "legacy": "/packages/masai-mara/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/thailand-fullmoon/",
+  "legacy": "/packages/thailand-fullmoon/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/bali-gili/",
+  "legacy": "/packages/bali-gili/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/vietnam-north-south/",
+  "legacy": "/packages/vietnam-north-south/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/bhutan-road/",
+  "legacy": "/packages/bhutan-road/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/bhutan-bike/",
+  "legacy": "/packages/bhutan-bike/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/nepal-mustang/",
+  "legacy": "/packages/nepal-mustang/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/central-europe/",
+  "legacy": "/packages/central-europe/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/europe-highlights/",
+  "legacy": "/packages/europe-highlights/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/wk-chakrata/",
+  "legacy": "/packages/wk-chakrata/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/wk-kanatal/",
+  "legacy": "/packages/wk-kanatal/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/themes/family/",
+  "legacy": "/themes/family/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/themes/adventure/",
+  "legacy": "/themes/adventure/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/themes/honeymoon/",
+  "legacy": "/themes/honeymoon/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/themes/city/",
+  "legacy": "/themes/city/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/themes/spiritual/",
+  "legacy": "/themes/spiritual/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/themes/beach/",
+  "legacy": "/themes/beach/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/themes/women/",
+  "legacy": "/themes/women/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/themes/safari/",
+  "legacy": "/themes/safari/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/themes/group/",
+  "legacy": "/themes/group/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/themes/trek/",
+  "legacy": "/themes/trek/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/themes/weekend/",
+  "legacy": "/themes/weekend/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/themes/festive/",
+  "legacy": "/themes/festive/",
+  "group": "catalogue"
+ },
+ {
+  "path": "/guides/visa-free-countries/",
+  "legacy": "/guides/visa-free-countries/",
+  "group": "editorial"
+ },
+ {
+  "path": "/guides/char-dham-guide/",
+  "legacy": "/guides/char-dham-guide/",
+  "group": "editorial"
+ },
+ {
+  "path": "/guides/kashmir-best-time/",
+  "legacy": "/guides/kashmir-best-time/",
+  "group": "editorial"
+ },
+ {
+  "path": "/guides/ladakh-acclimatisation/",
+  "legacy": "/guides/ladakh-acclimatisation/",
+  "group": "editorial"
+ },
+ {
+  "path": "/guides/honeymoon-compare/",
+  "legacy": "/guides/honeymoon-compare/",
+  "group": "editorial"
+ },
+ {
+  "path": "/guides/winter-packing/",
+  "legacy": "/guides/winter-packing/",
+  "group": "editorial"
+ },
+ {
+  "path": "/videos/",
+  "legacy": "/videos/",
+  "group": "media"
+ },
+ {
+  "path": "/weekend-getaways-from-delhi/",
+  "legacy": "/weekend-getaways-from-delhi/",
+  "group": "media"
+ },
+ {
+  "path": "/christmas-new-year-packages/",
+  "legacy": "/christmas-new-year-packages/",
+  "group": "media"
+ },
+ {
+  "path": "/holidays/india/",
+  "legacy": "/#india",
+  "group": "catalogue"
+ },
+ {
+  "path": "/holidays/international/",
+  "legacy": "/#international",
+  "group": "catalogue"
+ },
+ {
+  "path": "/themes/",
+  "legacy": "/#themes",
+  "group": "catalogue"
+ },
+ {
+  "path": "/packages/",
+  "legacy": "/#packages",
+  "group": "catalogue"
+ },
+ {
+  "path": "/deals/",
+  "legacy": "/#deals",
+  "group": "catalogue"
+ },
+ {
+  "path": "/search/",
+  "legacy": "/#search",
+  "group": "catalogue"
+ },
+ {
+  "path": "/compare/",
+  "legacy": "/#compare",
+  "group": "catalogue"
+ },
+ {
+  "path": "/wishlist/",
+  "legacy": "/#wishlist",
+  "group": "catalogue"
+ },
+ {
+  "path": "/services/holidays/",
+  "legacy": "/#s-holidays",
+  "group": "editorial"
+ },
+ {
+  "path": "/services/flights/",
+  "legacy": "/#s-flights",
+  "group": "editorial"
+ },
+ {
+  "path": "/services/hotels/",
+  "legacy": "/#s-hotels",
+  "group": "editorial"
+ },
+ {
+  "path": "/services/cabs/",
+  "legacy": "/#s-cabs",
+  "group": "editorial"
+ },
+ {
+  "path": "/services/visa-services/",
+  "legacy": "/#s-visa-services",
+  "group": "editorial"
+ },
+ {
+  "path": "/services/insurance/",
+  "legacy": "/#s-insurance",
+  "group": "editorial"
+ },
+ {
+  "path": "/services/corporate/",
+  "legacy": "/#s-corporate",
+  "group": "editorial"
+ },
+ {
+  "path": "/services/yatra/",
+  "legacy": "/#s-yatra",
+  "group": "editorial"
+ },
+ {
+  "path": "/services/",
+  "legacy": "/#services",
+  "group": "editorial"
+ },
+ {
+  "path": "/guides/",
+  "legacy": "/#guides",
+  "group": "editorial"
+ },
+ {
+  "path": "/visa/",
+  "legacy": "/#visa",
+  "group": "editorial"
+ },
+ {
+  "path": "/departures/",
+  "legacy": "/#departures",
+  "group": "editorial"
+ },
+ {
+  "path": "/about/",
+  "legacy": "/#about",
+  "group": "editorial"
+ },
+ {
+  "path": "/contact/",
+  "legacy": "/#contact",
+  "group": "editorial"
+ },
+ {
+  "path": "/faq/",
+  "legacy": "/#faq",
+  "group": "editorial"
+ },
+ {
+  "path": "/privacy/",
+  "legacy": "/#privacy",
+  "group": "editorial"
+ },
+ {
+  "path": "/terms/",
+  "legacy": "/#terms",
+  "group": "editorial"
+ },
+ {
+  "path": "/cancellation/",
+  "legacy": "/#cancellation",
+  "group": "editorial"
+ },
+ {
+  "path": "/book/kashmir-paradise/",
+  "legacy": "/#book-kashmir-paradise",
+  "group": "booking"
+ },
+ {
+  "path": "/book/chardham-yatra/",
+  "legacy": "/#book-chardham-yatra",
+  "group": "booking"
+ },
+ {
+  "path": "/book/fx-goa-nye/",
+  "legacy": "/#book-fx-goa-nye",
+  "group": "booking"
+ },
+ {
+  "path": "/book/wk-rishikesh/",
+  "legacy": "/#book-wk-rishikesh",
+  "group": "booking"
+ },
+ {
+  "path": "/my-trips/",
+  "legacy": "/#account",
+  "group": "booking"
+ },
+ {
+  "path": "/pay/",
+  "legacy": "/#pay",
+  "group": "booking"
+ },
+ {
+  "path": "/travel-partner/",
+  "legacy": "/#partner",
+  "group": "partner"
+ },
+ {
+  "path": "/travel-partner/create/",
+  "legacy": "/#partner-create",
+  "group": "partner"
+ },
+ {
+  "path": "/travel-partner/book/",
+  "legacy": "/#partner-book",
+  "group": "partner"
+ },
+ {
+  "path": "/travel-partner/requests/",
+  "legacy": "/#partner-requests",
+  "group": "partner"
+ },
+ {
+  "path": "/travel-partner/safety/",
+  "legacy": "/#partner-safety",
+  "group": "partner"
+ },
+ {
+  "path": "/travel-partner/profile/aarav/",
+  "legacy": "/#buddy-aarav",
+  "group": "partner"
+ },
+ {
+  "path": "/travel-partner/profile/priya/",
+  "legacy": "/#buddy-priya",
+  "group": "partner"
+ },
+ {
+  "path": "/travel-partner/profile/rohit/",
+  "legacy": "/#buddy-rohit",
+  "group": "partner"
+ },
+ {
+  "path": "/travel-partner/profile/neha/",
+  "legacy": "/#buddy-neha",
+  "group": "partner"
+ },
+ {
+  "path": "/travel-partner/profile/ankit/",
+  "legacy": "/#buddy-ankit",
+  "group": "partner"
+ },
+ {
+  "path": "/travel-partner/profile/sneha/",
+  "legacy": "/#buddy-sneha",
+  "group": "partner"
+ },
+ {
+  "path": "/travel-partner/profile/vikram/",
+  "legacy": "/#buddy-vikram",
+  "group": "partner"
+ },
+ {
+  "path": "/travel-partner/profile/isha/",
+  "legacy": "/#buddy-isha",
+  "group": "partner"
+ },
+ {
+  "path": "/travel-partner/profile/karan/",
+  "legacy": "/#buddy-karan",
+  "group": "partner"
+ },
+ {
+  "path": "/travel-partner/profile/meera/",
+  "legacy": "/#buddy-meera",
+  "group": "partner"
+ },
+ {
+  "path": "/travel-partner/profile/tanya/",
+  "legacy": "/#buddy-tanya",
+  "group": "partner"
+ },
+ {
+  "path": "/travel-partner/profile/arjun/",
+  "legacy": "/#buddy-arjun",
+  "group": "partner"
+ },
+ {
+  "path": "/travel-partner/profile/kavya/",
+  "legacy": "/#buddy-kavya",
+  "group": "partner"
+ },
+ {
+  "path": "/travel-partner/profile/rahul/",
+  "legacy": "/#buddy-rahul",
+  "group": "partner"
+ },
+ {
+  "path": "/travel-partner/profile/simran/",
+  "legacy": "/#buddy-simran",
+  "group": "partner"
+ },
+ {
+  "path": "/travel-partner/profile/dev/",
+  "legacy": "/#buddy-dev",
+  "group": "partner"
+ },
+ {
+  "path": "/travel-partner/profile/ananya/",
+  "legacy": "/#buddy-ananya",
+  "group": "partner"
+ },
+ {
+  "path": "/travel-partner/profile/sameer/",
+  "legacy": "/#buddy-sameer",
+  "group": "partner"
+ },
+ {
+  "path": "/travel-partner/profile/pooja/",
+  "legacy": "/#buddy-pooja",
+  "group": "partner"
+ },
+ {
+  "path": "/travel-partner/profile/nikhil/",
+  "legacy": "/#buddy-nikhil",
+  "group": "partner"
+ }
+]
