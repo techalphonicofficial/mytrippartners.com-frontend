@@ -19,7 +19,7 @@ export async function openBrowser() {
   let ws = null;
   for (let i = 0; i < 60 && !ws; i++) {
     await new Promise(r => setTimeout(r, 250));
-    try { ws = (await (await fetch(`http://127.0.0.1:${port}/json/version`)).json()).webSocketDebuggerUrl; } catch (e) { /* not up yet */ }
+    try { ws = (await (await fetch(`https://admin.mytrippartner.in:${port}/json/version`)).json()).webSocketDebuggerUrl; } catch (e) { /* not up yet */ }
   }
   if (!ws) { proc.kill(); throw new Error('Browser did not start'); }
   const browser = await puppeteer.connect({ browserWSEndpoint: ws, defaultViewport: { width: 1400, height: 900 } });

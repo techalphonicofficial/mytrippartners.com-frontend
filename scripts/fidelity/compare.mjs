@@ -3,7 +3,7 @@
      node scripts/fidelity/compare.mjs --group catalogue                         → all pages of one area
      node scripts/fidelity/compare.mjs --all [--chrome]                          → everything (+ header/footer/drawer/bottom nav)
    Options: --max N (diffs shown per page, default 12)  --quiet (summary only)
-   Exit code 1 when any page differs. Needs the Next.js site running (NEXT_URL, default http://127.0.0.1:3000). */
+   Exit code 1 when any page differs. Needs the Next.js site running (NEXT_URL, default https://admin.mytrippartner.in:3000). */
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -14,7 +14,7 @@ import { createStore } from '../../lib/store.js';
 
 const HERE = path.dirname(fileURLToPath(import.meta.url));
 const BASE = path.join(HERE, 'baseline');
-const NEXT = (process.env.NEXT_URL || 'http://127.0.0.1:3000').replace(/\/$/, '');
+const NEXT = (process.env.NEXT_URL || 'https://admin.mytrippartner.in:3000').replace(/\/$/, '');
 const args = process.argv.slice(2);
 const opt = k => (args.includes(k) ? args[args.indexOf(k) + 1] : null);
 const max = +(opt('--max') || 12), quiet = args.includes('--quiet'), chrome = args.includes('--chrome') || args.includes('--all');

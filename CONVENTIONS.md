@@ -120,7 +120,7 @@ export default async function Page({ params }) { const { id } = await params; co
 
 ## 7. Verification (required)
 
-Run these with `MSYS_NO_PATHCONV=1` in Git Bash. The dev server runs at http://127.0.0.1:3000 — **don't start or stop it, and don't run `next build`** (other agents share it).
+Run these with `MSYS_NO_PATHCONV=1` in Git Bash. The dev server runs at https://admin.mytrippartner.in:3000 — **don't start or stop it, and don't run `next build`** (other agents share it).
 
 ```bash
 node scripts/fidelity/compare.mjs /packages/kashmir-paradise/        # exact path(s)

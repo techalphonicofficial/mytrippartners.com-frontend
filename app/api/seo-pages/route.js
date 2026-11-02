@@ -19,7 +19,7 @@ export async function GET() {
 }
 
 async function crawl(S) {
-  const base = (process.env.SITE_INTERNAL_URL || `http://127.0.0.1:${process.env.PORT || 3000}`).replace(/\/$/, '');
+  const base = (process.env.SITE_INTERNAL_URL || `https://admin.mytrippartner.in:${process.env.PORT || 3000}`).replace(/\/$/, '');
   const pages = [...builtInPages(S).values()];
   const out = new Array(pages.length);
   let next = 0;
