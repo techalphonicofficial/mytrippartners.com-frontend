@@ -2,7 +2,7 @@
    The active list is read from the backend and cached for 30 s; each served redirect is counted. */
 import { NextResponse } from 'next/server';
 
-const BACKEND = (process.env.BACKEND_URL || 'http://127.0.0.1:8080').replace(/\/$/, '');
+const BACKEND = (process.env.BACKEND_URL || 'https://admin.mytrippartner.in').replace(/\/$/, '');
 let cache = { at: 0, map: null };
 
 async function redirects() {

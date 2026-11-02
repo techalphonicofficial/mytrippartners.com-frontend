@@ -133,7 +133,7 @@ node scripts/fidelity/compare.mjs --group catalogue                   # your who
 - **Allowed differences:** only ones caused by time or randomness (countdowns, "today", shuffled items). List each one in your report with the reason.
 - **Behaviour testing:** markup equality is not enough. Exercise every interaction in a real browser. Write throw-away puppeteer scripts using `scripts/fidelity/browser.mjs` (`openBrowser()`, then `browser.createBrowserContext()` + `newPage()`) — click, type, submit — and assert the result.
   - Delete the scripts when done.
-  - **Don't submit real data** to the backend beyond what you clean up. The backend at http://127.0.0.1:8080 is shared with the real local database.
+  - **Don't submit real data** to the backend beyond what you clean up. The backend at https://admin.mytrippartner.in is shared with the real local database.
   - **Booking, lead and partner submissions** may be tested with clearly fake names (e.g. "ZZ Test"). Delete them afterwards via the dashboard API: log in with `POST /api/auth/login {email:'admin@trippartner.local', password:'admin12345'}`, then `DELETE /api/leads/:id`, `/api/bookings/:id`, `/api/partners/:id`, etc.
 
 ## 8. Cross-area components (export these early — other agents import them)

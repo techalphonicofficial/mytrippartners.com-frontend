@@ -1,6 +1,6 @@
 /* Captures the final DOM of every page of the LEGACY website (served by the old backend renderer) into
    scripts/fidelity/baseline/. Run once, while the legacy site is still available:
-     LEGACY_URL=http://127.0.0.1:8080 node scripts/fidelity/capture-baseline.mjs [--only <prefix>] [--missing] */
+     LEGACY_URL=https://admin.mytrippartner.in node scripts/fidelity/capture-baseline.mjs [--only <prefix>] [--missing] */
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -10,7 +10,7 @@ import { browserPool } from './browser.mjs';
 
 const HERE = path.dirname(fileURLToPath(import.meta.url));
 const OUT = path.join(HERE, 'baseline');
-const LEGACY = (process.env.LEGACY_URL || 'http://127.0.0.1:8080').replace(/\/$/, '');
+const LEGACY = (process.env.LEGACY_URL || 'https://admin.mytrippartner.in').replace(/\/$/, '');
 export const fileFor = p => (p === '/' ? '_home' : p.replace(/^\/|\/$/g, '').replace(/\//g, '__')) + '.json';
 
 const only = process.argv.includes('--only') ? process.argv[process.argv.indexOf('--only') + 1] : null;

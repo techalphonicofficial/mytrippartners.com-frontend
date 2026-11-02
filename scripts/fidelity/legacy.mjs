@@ -8,7 +8,7 @@ import { fileURLToPath } from 'node:url';
 
 const HERE = path.dirname(fileURLToPath(import.meta.url));
 export const LEGACY_BUNDLE = process.env.LEGACY_BUNDLE || path.resolve(HERE, '../../../legacy/website/assets/app.js');
-export const BACKEND = (process.env.BACKEND_URL || 'http://127.0.0.1:8080').replace(/\/$/, '');
+export const BACKEND = (process.env.BACKEND_URL || 'https://admin.mytrippartner.in').replace(/\/$/, '');
 
 export async function fetchSite() {
   const r = await fetch(`${BACKEND}/api/public/site`);

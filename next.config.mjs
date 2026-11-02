@@ -1,6 +1,6 @@
 /* TripPartner website (Next.js). The Express backend serves /api and /admin; they are proxied here so the
    whole site runs on one origin (cookies, CORS-free API calls from the browser). */
-const BACKEND = (process.env.BACKEND_URL || 'http://127.0.0.1:8080').replace(/\/$/, '');
+const BACKEND = (process.env.BACKEND_URL || 'https://admin.mytrippartner.in').replace(/\/$/, '');
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
